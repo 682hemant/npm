@@ -1,0 +1,14 @@
+{
+  "name": "is-hemus",
+  "version": "1.0.1",
+  "description": "Is the string WDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "pps",
+  "license": "ISC"
+}
